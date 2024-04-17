@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WdtFct4EHUu9Axy9ueZLEsHW3jOzxfooQu+40RMbFdb5X9cDWCF3z0baPOF7MMVDOoqj9aLEQfKIhtbzNbNHbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\userv\\OneDrive\\Desktop\\Apps\\UITest\\UITest\\UITest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\userv\\.nuget\\packages\\realtaiizor\\3.8.0.5\\realtaiizor.3.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
